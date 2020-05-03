@@ -1,0 +1,1 @@
+This is the eighth lab  practice from our Web Development course, dated May 2nd, 2020. This is a practice reinforcement on endpoints, JavaScript and the addition of MongoDB as a database. -Hugo Churches  
